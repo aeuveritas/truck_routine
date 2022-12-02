@@ -1,0 +1,8 @@
+start:
+  name: ""
+  lat: 0.0
+  long: 0.0
+destinations:
+  - name: ""
+    lat: 0.0
+    long: 0.0
